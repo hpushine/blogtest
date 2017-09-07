@@ -192,7 +192,7 @@ body {
 	border: 4px solid #fff;
 	overflow: hidden;
 	text-indent: -9999px;
-	background: url(images/avatar.jpg);
+	background: url(images/head.png);
 	-webkit-background-size: 100px 100px;
 	background-size: 100px 100px;
 	padding: 0 !important;
@@ -554,7 +554,8 @@ body {
 		z-index: 2
 	}
 	.nav .back-home a {
-		background-image: url(images/avatar@2x.jpg)
+		background-image: url(images/head.png)
+		/*2倍图片*/
 	}
 }
 @media only screen and (max-width:1024px) {
